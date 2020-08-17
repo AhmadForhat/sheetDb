@@ -1,0 +1,16 @@
+{
+  "name": "@ziro/sheet-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.test.js"
+  },
+  "author": "Ahmad Forhat",
+  "license": "ISC",
+  "dependencies": {
+    "@ziro/array-object": "^1.0.0",
+    "axios": "^0.19.2"
+  }
+}
